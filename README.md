@@ -4,6 +4,6 @@
 4) run nodemon app.js
 5) hit the api from postman
    
-for ques1 the api url is -> http://localhost:3001/api/v1/atm-amount?inputAmount=200&&balance=30  (POST request)
+for ques1 the api url is -> http://localhost:3001/api/v1/atm-amount?withdrawAmount=2600  (POST request)
 
 for ques2 the api url is -> http://localhost:3001/api/v1/count-colours (GET request)
